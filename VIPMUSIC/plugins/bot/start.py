@@ -40,8 +40,8 @@ SPAM_WINDOW_SECONDS = 5
 
 
 YUMI_PICS = [
-    "https://telegra.ph/file/3134ed3b57eb051b8c363.jpg",
-    "https://telegra.ph/file/5a2cbb9deb62ba4b122e4.jpg",
+    "https://telegra.ph/file/f77dd571f042639e7bf66.jpg",
+    "https://telegra.ph/file/5711f08596d1936a89dbc.jpg",
     "https://telegra.ph/file/cb09d52a9555883eb0f61.jpg",
 ]
 
