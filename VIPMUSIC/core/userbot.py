@@ -65,10 +65,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("DEADLY_NETWORK")
-                await self.one.join_chat("DEADLY_GIVEWAY")
-                await self.one.join_chat("DEADLY_NETWORK")
-                await self.one.join_chat("Deadly_Community")
+                await self.one.join_chat("FLEX_SUPPORT_CHAT")
+                await self.one.join_chat("EMXES_COMMUNITY")
+                await self.one.join_chat("GRABBING_YOUR_WH_GROUP")
+                await self.one.join_chat("FLEX_SUPPORT_CHAT")
 
             except:
                 pass
@@ -85,7 +85,7 @@ class Userbot(Client):
 
             except Exception as e:
                 print(f"{e}")
-
+. ko lllkkkkl
             self.one.id = self.one.me.id
             self.one.name = self.one.me.mention
             self.one.username = self.one.me.username
@@ -95,10 +95,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DEADLY_NETWORK")
-                await self.two.join_chat("DEADLY_GIVEWAY")
-                await self.two.join_chat("DEADLY_NETWORK")
-                await self.two.join_chat("Deadly_Community")
+                await self.two.join_chat("FLEX_SUPPORT_CHAT")
+                await self.two.join_chat("GRABBING_YOUR_WH_GROUP")
+                await self.two.join_chat("EMXES_COMMUNITY")
+                await self.two.join_chat("FLEX_SUPPORT_CHAT")
             except:
                 pass
             assistants.append(2)
@@ -119,10 +119,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("DEADLY_NETWORK")
-                await self.three.join_chat("DEADLY_GIVEWAY")
-                await self.three.join_chat("DEADLY_NETWORK")
-                await self.three.join_chat("Deadly_Community")
+                await self.three.join_chat("FLEX_SUPPORT_CHAT")
+                await self.three.join_chat("GRABBING_YOUR_WH_GROUP")
+                await self.three.join_chat("EMXES_COMMUNITY")
+                await self.three.join_chat("FLEX_SUPPORT_CHAT")
             except:
                 pass
             assistants.append(3)
@@ -142,10 +142,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("DEADLY_NETWORK")
-                await self.four.join_chat("DEADLY_GIVEWAY")
-                await self.four.join_chat("DEADLY_NETWORK")
-                await self.four.join_chat("Deadly_Community")
+                await self.four.join_chat("FLEX_SUPPORT_CHAT")
+                await self.four.join_chat("GRABBING_YOUR_WH_GROUP")
+                await self.four.join_chat("EMXES_COMMUNITY")
+                await self.four.join_chat("FLEX_SUPPORT_CHAT")
             except:
                 pass
             assistants.append(4)
@@ -165,10 +165,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("DEADLY_NETWORK")
-                await self.five.join_chat("DEADLY_GIVEWAY")
-                await self.five.join_chat("DEADLY_NETWORK")
-                await self.five.join_chat("Deadly_Community")
+                await self.five.join_chat("FLEX_SUPPORT_CHAT")
+                await self.five.join_chat("GRABBING_YOUR_WH_GROUP")
+                await self.five.join_chat("EMXES_COMMUNITY")
+                await self.five.join_chat("FLEX_SUPPORT_CHAT")
             except:
                 pass
             assistants.append(5)
