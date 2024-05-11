@@ -85,7 +85,6 @@ class Userbot(Client):
 
             except Exception as e:
                 print(f"{e}")
-. ko lllkkkkl
             self.one.id = self.one.me.id
             self.one.name = self.one.me.mention
             self.one.username = self.one.me.username
