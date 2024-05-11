@@ -58,7 +58,7 @@ async def userdel(client, message: Message, _):
         await message.reply_text(_["sudo_8"])
 
 
-photo_url = "https://telegra.ph/file/20b4a9fd06ea4a9457a61.jpg"
+photo_url = "https://telegra.ph/file/dfe0f4df1ed10644699e8.jpg"
 
 
 @app.on_message(
@@ -91,7 +91,7 @@ async def check_sudo_list(client, callback_query: CallbackQuery):
         user = await app.get_users(OWNER_ID)
 
         user_mention = user.first_name if not user.mention else user.mention
-        caption = f"**˹ʟɪsᴛ ᴏғ ʙᴏᴛ ᴍᴏᴅᴇʀᴀᴛᴏʀs˼**\n\n**🌹Oᴡɴᴇʀ** ➥ {user_mention}\n\n"
+        caption = f"**˹ʟɪsᴛ ᴏғ ʙᴏᴛ ᴍᴏᴅᴇʀᴀᴛᴏʀs˼**\n\n**👑Oᴡɴᴇʀ** ➥ {user_mention}\n\n"
 
         keyboard.append(
             [
