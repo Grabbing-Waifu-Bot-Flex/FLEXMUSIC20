@@ -86,9 +86,9 @@ CLEANMODE_DELETE_MINS = int(
 )  # Remember to give value in Seconds
 
 # Get your pyrogram v2 session from @VIP_STRING_ROBOT on Telegram
-STRING1 = getenv("STRING_SESSION", "BQFM7awACVUGTBCv7gPFekDKPXrQFP87si6JctUpd_dnmn39YAfWPDluAc0ijgF1glbqAoWRhKZsmaWEW06FIvDosz9OADx4xaudQNIoaa7JrVKylVrl88FEbC4kQxtkrZdQ_qshBTOcoL7X7lk-iOb-Q_oR1KcHqVjoS0MQa5yigLDuGoPd_Afol43vTM0sRzZcCxMYV9-ZxAiZzSSYRe9JFFuBTB5o0aloYRMBFvRlRPbuG9PNOHGEJf7Y5Vv_ODcbX2CE1V3kF-E2KEJMA5GmbHZ26HNlF4PWO5Xylu_KyynppokWRtmAcLj_irGPsq4bs8wxHnzLALwM35PuvKxXs-A60wAAAAF3lIe5AA")
-STRING2 = getenv("STRING_SESSION2", "BQFM7awAE267LJ7Ula4AUiM2h-FW9rZ956-QoXcEb_09jtVD0T06nGGWYfDvw_jqEV1MEgBB-ZkjMlF9fIqsg9kZc2uL81dtcMsAp1XjUpGT-WCdt2Vyoxgxa4P2Vh6DkMO_n1all1CYF803nsXb4gyiIEFedMLBtSNix5sqLQu5UTW3BOTEj8cAhCr0t7YZVZS7_TBC2gd2m5xHhnGd-Uiu3uq34GCwwhObTdhsp0m3WXzTCOcKHT0ixoJNl2y9hsBPA1Yjeg9pcvjAOGOqHEewBHNdE9EeC6fDWhL50Z_hbDCu4aHO-zKTG7lc75t7Kfqg9MuDaB5Wji52LdMNBT3UMSipqQAAAAGgfkg-AA")
-STRING3 = getenv("STRING_SESSION3", "BQFM7awAMZ400JYh7Y-XA7YmNt1Gv6odLd0hYni1-GXnfb5VDD7M2b3hnzUxVRKClwMNmx2EUUlzDDzPL5XId_ZBfc1EeyMVLi9uLq1aYCC2C1VsM2Z1HPtQrryoJBHorr8MdtZhF_WUAFoDGvPn6JmiFS8pWbAReeqKAWHh1wcaotGaMF0E8zrK0NIrvNPlbYGYRS5rxBpnNShjpSMEEiPx53H7hyEW8TBwtni4qjwlhCNeCNRbSHUPH1Y9wgD9vqgA3kiL0Yn4YCPqwH_j0z1mbnL781BSkIG3Py5QDXlap2OSLXHMaqGCAq2cBUiTM-dFoWdEGB34VWmQfQ_Aw6DEIBY1cgAAAAGWf-cBAA")
+STRING1 = getenv("STRING_SESSION", "BQGNIqIAqrS_USl6MT1NSoC6ZvluBr284hgYI8EaFjaIpFnrvNArjtR0Fas212V1_rmH4_aUNc4PNDJxM880G_iOcnEMfCOFLBUXfeFMZ6X9v8lKKeV4CH4BX3319yXQV6OW3FjhquSNZLfDvKwD8XYm2lJTyU6_9acUhqvfib_p4c68kylPM2Ur7FoRvIclPuTwv88Ny5kFi1hflPQZdTZ1VJRxhRLZoiOD25-4OCKDz7_65dgUmCBUh8LL5zfisV-BVWG-rzOO5rYedrRBbHRPTqHMrm_aA2WsAe0YxPqVXMOQPLQiLU_7tGimjJ6o2YzmzN4_cmaSnNCVyJLAOgBv2xjZ8AAAAAF7SiUgAA")
+STRING2 = getenv("STRING_SESSION2", "BQGNIqIAYKGDNUWeAcOT0W9mUj8NxM5bSY0CPF4V7IvYdOsTf_0BcBqKtqHbQzSKFBesMiDe2lrqLp5FF5XqoxkYcp98V0COZBp5ssSBBjAFGhccdz_4R7fJWQrwuRrZQSo16iWZWB71PLU2VR5fMpLUW7Y0mDWaimIxdT0danEV3HF-0zoIJV-hOod9HjzOML-lI4ZRcYvtMC_CJ2eeBclOnwxgMDgcB37kDZcXmNBPZDYWl50ZxSs-Au45nEOz3MYdIBpt3xmorelYSWtM0F6k_YwK_KUWjIm6DoutGrs7mUIX7B-zruwfbtpbhNGUo9qJ9PBhWp9kuCT-JyvtC5pcaJz6WAAAAAF7SiUgAA")
+STRING3 = getenv("STRING_SESSION3", "BQGNIqIAS2gpYIBsf2YVukOrAFj6uQn2WuCD9CVnotJBbYsRX9SXyWO1bKdTCo3GH_n0lquT6Bk6aKh-R4d_7_ZWG2aXGbPrkE8uPuQzpI6uAflg9GfpojXQfta7LRmcMg7OpwosLVKpj2nS3-At5vuQQVE7-_2I94Z_mT7CmrSSVmPFtwpl0mQZXhEQjcWtmoU5kllJcKWw2wgjqni5la20h9uLjl-vva1jGk6TZhXrcSgAjlEtWMg0WttnQybykur5sJfzUZcq-BGOCqHAMFwGzGtkHzBYhILKETmuvhQpAdhyay_21X-hvah1tbaQg36oJ36Prg4pfsIFfn0rIHTHnAAAAAF7SiUgAA")
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
@@ -114,21 +114,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
+    "START_IMG_URL", "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
+    "PING_IMG_URL", "https://graph.org/file/af76565ecb93f1763a9fd.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+STATS_IMG_URL = "https://graph.org/file/527daa229a210ec5b901f.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+STREAM_IMG_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/5abc92f2c2367baf29fa3.jpg"
 
 
 def time_to_seconds(time):
